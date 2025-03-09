@@ -3,6 +3,14 @@
 ## Overview
 This project analyzes Chicago Crime Data using both descriptive and predictive methods to visualize crime trends across time, location, and type. The study also applies frequent itemset mining techniques to reveal associations between crime types.
 
+## Dataset
+The dataset used for this analysis can be found at: [Chicago Analysis of Crime Data Dashboard](https://www.kaggle.com/datasets/elijahtoumoua/chicago-analysis-of-crime-data-dashboard)
+
+## Authors
+CS23B2033, CS23B2035, CS23B2036, CS23B2057
+
+## Date
+December 6, 2024
 
 ## Project Structure
 The analysis is divided into two main components:
@@ -61,6 +69,4 @@ The analysis is divided into two main components:
 - Improve clustering accuracy using advanced spatial analysis techniques.
 
 
-## License
-This project is licensed under the MIT License.
 
